@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NickChew/Week-5.git/static/css/main.6c68b270.css",
+    "main.js": "/NickChew/Week-5.git/static/js/main.80c61d22.js",
+    "index.html": "/NickChew/Week-5.git/index.html",
+    "main.6c68b270.css.map": "/NickChew/Week-5.git/static/css/main.6c68b270.css.map",
+    "main.80c61d22.js.map": "/NickChew/Week-5.git/static/js/main.80c61d22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c68b270.css",
+    "static/js/main.80c61d22.js"
+  ]
+}
