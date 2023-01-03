@@ -1,0 +1,35 @@
+
+.app {
+  padding: 20px;
+  background-image: linear-gradient(15deg, #244ded 0%, #0a0c91 100%);
+  border: 3px solid rgb(166, 166, 164);
+  width: auto;
+  height: auto;
+  border-radius: 20px;
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 20px;
+  justify-content: space-between;
+  color:rgb(233, 245, 1);
+  text-transform: uppercase;
+  font-family:cursive;
+  flex-wrap: wrap;
+}
+.span{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+button:hover {
+  background-color: rgb(240, 136, 136);
+}
+
+h1 {
+  text-align: center;
+  flex-wrap: wrap;
+  color:rgb(212, 32, 200);
+}
