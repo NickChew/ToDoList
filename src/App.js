@@ -54,7 +54,7 @@ const Todo = ( { todo, index, markTodo, removeTodo} ) => {
         <button onClick={() => removeTodo(index)}>Del</button>
       </div>     
     </div>
-  )
+  );
 };
 
 const FormTodo = ({addTodo}) => {

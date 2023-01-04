@@ -3,8 +3,8 @@
   padding: 20px;
   background-image: linear-gradient(15deg, #244ded 0%, #0a0c91 100%);
   border: 3px solid rgb(166, 166, 164);
-  width: auto;
-  height: auto;
+  width: flex;
+  height: flex;
   border-radius: 20px;
 }
 
@@ -17,9 +17,9 @@
   color:rgb(233, 245, 1);
   text-transform: uppercase;
   font-family:cursive;
-  flex-wrap: wrap;
 }
-.span{
+
+span {
   display: flex;
   flex-wrap: wrap;
 }
